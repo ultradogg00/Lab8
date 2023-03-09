@@ -60,7 +60,7 @@ public class CustomList extends ArrayAdapter<City> {
         return false;
     }
     public void delete(City city){
-        /*
+
         if(cities.contains(city)){
 
             cities.remove(city);
@@ -69,7 +69,7 @@ public class CustomList extends ArrayAdapter<City> {
             throw new IllegalArgumentException();
         }
 
-         */
+         
 
     }
 
